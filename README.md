@@ -23,8 +23,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,react,Next,aws,Ubuntu,nginx,mui,tailwind, radix, prisma" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb, mysql, mongoose,jest" /><br>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,react,next,aws,ubuntu,nginx,mui,tailwind,prisma" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgres,jquery" /><br>
 </div>
 
 <br/>
