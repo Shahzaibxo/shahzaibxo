@@ -1,9 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shahzaib!;" />
 </h1>
-
-<h3 align="center">A passionate localhost developer</h3>
-<br/>
 <h3 align="center"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVwamx6aGJta2FxNml5enVoc29sYnN2NTdyOWdydjdxaGl1a3FnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" /></h3>
 <br/>
 
